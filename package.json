@@ -8,11 +8,11 @@
     "build": "parcel build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.13.2",
+    "parcel": "^2.9.3",
     "parcel-bundler": "^1.12.5"
-  }
+  },
+  "keywords": [],
+  "author": "Juan",
+  "license": "ISC"
 }
