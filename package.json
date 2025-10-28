@@ -3,9 +3,10 @@
   "private": true,
   "version": "2.0.0",
   "description": "Para node 24 lts",
+  "source": "src/index.html",
   "scripts": {
-    "dev": "parcel src/index.html --open",
-    "build": "parcel build src/index.html"
+    "dev": "parcel --open",
+    "build": "parcel build"
   },
   "devDependencies": {
     "parcel": "^2.16.0"
