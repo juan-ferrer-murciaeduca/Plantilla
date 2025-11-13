@@ -5,7 +5,7 @@
   "description": "Para node 24 lts",
   "source": "src/index.html",
   "scripts": {
-     "dev": "parcel \"src/*.html\"",
+     "dev": "parcel \"src/*.html\" --open",
     "build": "parcel build"
   },
   "devDependencies": {
